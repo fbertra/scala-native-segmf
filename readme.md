@@ -1,4 +1,4 @@
-Case for issue #
+Case for issue #130
 
 ```
 ../scala-native-segm$ sbt run
@@ -10,7 +10,7 @@ warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverrid
 [success] Total time: 16 s, completed May 24, 2016 4:41:14 AM
 
 francois@ubuntu:~/proyectos/pruebas/scala-native-segm$ ./target/scala-2.11/scala-native-segmf-out 
-Segmentation fault (core dumped)Segmentation fault (core dumped)
+Segmentation fault (core dumped)
 ```
 
 execution with
